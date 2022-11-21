@@ -29,11 +29,12 @@
 ##### IDE utilizada: VS CODE
 
 #### Tecnologias usadas:
+
 ##### Xampp 8.1
 ##### Mysql 8.0
 ##### PHPmyadmin 5.2.0
 ##### PHP intelephense (Back end)
-##### Bootstrap (Front end)
+##### Bootstrap CDN (Front end)
 
 ##### Como executar o aplicativo: 
 
@@ -47,7 +48,7 @@
 ###### http://localhost/projeto2023/_listar_clientes 
 
 
-###### Grato pela oportunidade
+###### Grato pela oportunidade.
 ###### Anderson Vasconcelos
 ###### https://www.linkedin.com/in/anderson-vasconcelos-975bb7210/
  
