@@ -28,7 +28,7 @@
 
 ##### IDE utilizada: VS CODE
 
-#### Tecnologias usadas:
+#### Tecnologias utilizadas:
 
 ##### Xampp 8.1
 ##### Mysql 8.0
